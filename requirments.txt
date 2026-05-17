@@ -1,0 +1,8 @@
+streamlit
+pandas
+joblib
+pandas
+numpy
+matplotlib.pyplot
+seaborn
+warnings
